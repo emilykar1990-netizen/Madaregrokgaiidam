@@ -13,7 +13,7 @@ export const GET = async () => {
     currency: "USD",
     decimals: 6,
     timestamp: Date.now(),
-    name: "Flash USDT",
+    name: "Tether USDT",
     symbol: "USDT",
   };
 
